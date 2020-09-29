@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pierre Zemb and I am a **Technical Lead** at **[OVHcloud](https://www.ovhcloud.com)**. I love working with **distributed systems**, specifically around **data storage**.
+My name is Pierre Zemb and I am a **Technical Leader** at **[OVHcloud](https://www.ovhcloud.com)**. I love working with **distributed systems**, specifically around **data storage**.
 
 I enjoy being part of open-source communities, through **[talks](https://pierrezemb.fr/talks)**, **[blogposts](https://pierrezemb.fr/posts)**, and contributions to:
 
