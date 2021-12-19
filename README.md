@@ -1,18 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pierre Zemb</h1>
+<h3 align="center">A Senior software Engineer building data infrastructure</h3>
 
-My name is Pierre Zemb and I’m a senior Software Engineer building data infrastructure at Clever Cloud. I've built and operated a variety of stateful distributed systems throughout my career.
+- 🚀 I've built and operated a variety of stateful distributed systems
 
-I’m interested in distributed systems, data stores, understanding how things works under the hood. I enjoy being part of open-source communities, through [talks](/talks), [posts](/posts), and [contributions](https://github.com/PierreZ/) to:
+- 🔭 I’m currently working on [DBaaS at Clever Cloud 🇪🇺](https://clever-cloud.com)
 
-* SenX [Warp10](https://github.com/senx/warp10-platform/commits?author=PierreZ),
-* Apache [HBase](https://github.com/apache/hbase/commits/master?author=PierreZ), [Flink](https://github.com/apache/flink/commits/master?author=PierreZ), [Pulsar](https://github.com/apache/pulsar/commits/master?author=PierreZ),
-* PingCAP [go-ycsb](https://github.com/pingcap/go-ycsb/commits/master?author=PierreZ),
-* Apple [FoundationDB](https://github.com/apple/foundationdb/commits/master?author=PierreZ) and their [Kubernetes Operator](https://github.com/FoundationDB/fdb-kubernetes-operator/commits/master?author=PierreZ),
-* StreamNative [KoP (Kafka On Pulsar)](https://github.com/streamnative/kop/commits/master?author=PierreZ), Kafka protocol handler for Pulsar,
-* CNCF [ETCD](https://github.com/etcd-io/etcd/commits/master?author=PierreZ),
+- 👯 I’m looking to collaborate on [foundationdb-rs](https://github.com/foundationdb-rs/foundationdb-rs)
 
-I am also maintaining some projects such as:
+- 👨‍💻 All of my projects are available at [https://github.com/PierreZ](https://github.com/PierreZ)
 
-* [PierreZ/goStatic](https://github.com/PierreZ/goStatic), A really small static web server for Docker,
-* [PierreZ/fdb-etcd](https://github.com/PierreZ/fdb-etcd), An experiment to provide ETCD layer on top of Record-Layer and FoundationDB,
-* [PierreZ/Record-Store](https://pierrez.github.io/record-store/), A light, multi-model, user-defined place for your data.
+- 📝 I regularly write articles on [https://pierrezemb.fr](https://pierrezemb.fr)
+
+- 💬 Ask me about **Rust, databases, distributed systems, infrastructures**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pierrez" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages</h3>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
