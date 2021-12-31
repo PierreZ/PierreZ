@@ -3,7 +3,7 @@
 
 - 🚀 I've built and operated a variety of stateful distributed systems
 
-- 🔭 I’m currently working on [DBaaS at Clever Cloud 🇪🇺](https://clever-cloud.com)
+- 🔭 I’m currently building [data services at Clever Cloud 🇪🇺](https://clever-cloud.com)
 
 - 👯 I’m looking to collaborate on [foundationdb-rs](https://github.com/foundationdb-rs/foundationdb-rs)
 
