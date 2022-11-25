@@ -14,10 +14,3 @@
 - 📝 I regularly write articles on [https://pierrezemb.fr](https://pierrezemb.fr)
 
 - 💬 Ask me about **Rust, databases, distributed systems, infrastructures**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pierrez" height="30" width="40" /></a>
-</p>
-
-![pierrez's github stats](https://github-readme-stats.vercel.app/api?username=pierrez&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
